@@ -24,7 +24,7 @@ O foco está em oferecer uma experiência direta: informar um CEP, realizar a bu
 ## Preview
 
 <!-- Caminho relativo à raiz do repositório. Ajuste a extensão caso a imagem não seja PNG. -->
-![Interface do BuscaCEP com o resultado de uma consulta](../assets/icons/resultado.png)
+![Interface do BuscaCEP com o resultado de uma consulta](/assets/icons/resultado.png)
 
 ## Funcionalidades
 
