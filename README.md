@@ -104,7 +104,6 @@ Os itens abaixo representam oportunidades de evolução, não funcionalidades ga
 - [ ] Revisar os estados de carregamento e os campos sem informação.
 - [ ] Aprimorar a adaptação da interface a diferentes tamanhos de tela.
 - [ ] Revisar a acessibilidade e a navegação por teclado.
-- [ ] Adicionar uma opção para copiar o endereço consultado.
 
 ## Sugestões e contribuições
 
